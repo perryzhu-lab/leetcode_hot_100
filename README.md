@@ -54,6 +54,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0283-move-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0283-move-zeroes/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
@@ -107,9 +108,26 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0239-sliding-window-maximum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0560-subarray-sum-equals-k/) | undefined |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0239-sliding-window-maximum/) | undefined |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0239-sliding-window-maximum/) | undefined |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0239-sliding-window-maximum/) | undefined |
+## 区间最值查询
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0239-sliding-window-maximum/) | undefined |
 <!---LeetCode Topics End-->
