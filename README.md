@@ -42,3 +42,15 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 4. Optimize the algorithm for better efficiency.
 5. Write clean, readable, and maintainable Python code.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0001-two-sum/) | undefined |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0001-two-sum/) | undefined |
+<!---LeetCode Topics End-->
