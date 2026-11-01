@@ -1,1 +1,52 @@
-# leetcode_hot_100
+# LeetCode Hot 100
+
+A collection of Python solutions for **LeetCode Hot 100**, covering essential data structures, algorithms, and common coding interview problems.
+
+This repository focuses on algorithmic thinking, code efficiency, and problem-solving skills.
+
+## Overview
+
+- **Language:** Python 3
+- **Problem Set:** [LeetCode Hot 100](https://leetcode.cn/studyplan/top-100-liked/)
+- **Total Problems:** 100
+- **Focus:** Data Structures, Algorithms, Time & Space Complexity
+- **Code Synchronization:** LeetHub
+
+## Topics Covered
+
+| Category | Key Concepts |
+|---|---|
+| Hash Tables | Hash Maps, Hash Sets |
+| Two Pointers | Fast & Slow Pointers, In-place Operations |
+| Sliding Window | Fixed & Variable Windows |
+| Subarrays | Prefix Sum, Hashing |
+| Arrays | Traversal, Sorting, Simulation |
+| Matrices | Matrix Traversal, In-place Manipulation |
+| Linked Lists | Reversal, Fast & Slow Pointers |
+| Binary Trees | DFS, BFS, Recursion |
+| Graphs | DFS, BFS, Topological Sorting |
+| Backtracking | Recursion, Pruning |
+| Binary Search | Search Space Reduction |
+| Stacks | Monotonic Stack, Expression Evaluation |
+| Heaps | Priority Queue, Top K Problems |
+| Greedy Algorithms | Local Optimization |
+| Dynamic Programming | State Transition, Space Optimization |
+| Multidimensional DP | 2D Dynamic Programming |
+| Advanced Techniques | Bit Manipulation, Divide and Conquer |
+
+## Problem-Solving Approach
+
+1. Understand the problem and identify constraints.
+2. Develop an initial solution independently.
+3. Analyze time and space complexity.
+4. Optimize the algorithm for better efficiency.
+5. Write clean, readable, and maintainable Python code.
+
+## Solutions
+
+All solutions are organized by problem and automatically synchronized through LeetHub.
+
+The following topic-based index is automatically maintained as solutions are added.
+
+<!---LeetCode Topics Start-->
+<!---LeetCode Topics End-->
