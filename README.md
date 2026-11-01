@@ -49,6 +49,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0011-container-with-most-water/) | undefined |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0283-move-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0283-move-zeroes/) | undefined |
@@ -73,5 +74,10 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0011-container-with-most-water/) | undefined |
 | [0283-move-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0283-move-zeroes/) | undefined |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0011-container-with-most-water/) | undefined |
 <!---LeetCode Topics End-->
