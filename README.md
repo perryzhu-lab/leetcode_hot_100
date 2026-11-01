@@ -48,9 +48,9 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0001-two-sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0001-two-sum/) | undefined |
+| [0001-two-sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0001-two-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0001-two-sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0001-two-sum/) | undefined |
+| [0001-two-sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
