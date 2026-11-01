@@ -54,6 +54,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0053-maximum-subarray/) | undefined |
+| [0056-merge-intervals](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0056-merge-intervals/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0283-move-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0283-move-zeroes/) | Easy |
@@ -80,6 +81,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | ------- | ------- |
 | [0015-3sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0056-merge-intervals/) | undefined |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +141,8 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0053-maximum-subarray/) | undefined |
+## 快速排序
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0056-merge-intervals/) | undefined |
 <!---LeetCode Topics End-->
