@@ -55,6 +55,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0053-maximum-subarray/) | undefined |
+| [0054-spiral-matrix](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0054-spiral-matrix/) | undefined |
 | [0056-merge-intervals](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0056-merge-intervals/) | undefined |
 | [0073-set-matrix-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -160,5 +161,10 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0054-spiral-matrix/) | undefined |
 | [0073-set-matrix-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0073-set-matrix-zeroes/) | undefined |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0054-spiral-matrix/) | undefined |
 <!---LeetCode Topics End-->
