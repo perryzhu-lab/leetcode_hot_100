@@ -56,6 +56,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0053-maximum-subarray/) | undefined |
 | [0056-merge-intervals](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0056-merge-intervals/) | undefined |
+| [0073-set-matrix-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0189-rotate-array](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0189-rotate-array/) | undefined |
 | [0238-product-of-array-except-self](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0238-product-of-array-except-self/) | undefined |
@@ -69,6 +70,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0003-longest-substring-without-repeating-characters](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0041-first-missing-positive/) | undefined |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0076-minimum-window-substring](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0076-minimum-window-substring/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -155,4 +157,8 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0189-rotate-array/) | undefined |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0073-set-matrix-zeroes/) | undefined |
 <!---LeetCode Topics End-->
