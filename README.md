@@ -183,4 +183,9 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
+| [0206-reverse-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0206-reverse-linked-list/) | undefined |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0206-reverse-linked-list/) | undefined |
 <!---LeetCode Topics End-->
