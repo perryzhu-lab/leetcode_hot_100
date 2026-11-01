@@ -76,6 +76,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0073-set-matrix-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0076-minimum-window-substring](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0076-minimum-window-substring/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
@@ -101,6 +102,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0011-container-with-most-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | Hard |
+| [0160-intersection-of-two-linked-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0189-rotate-array](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0189-rotate-array/) | undefined |
 | [0283-move-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0283-move-zeroes/) | Easy |
 ## Greedy
@@ -177,4 +179,8 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 <!---LeetCode Topics End-->
