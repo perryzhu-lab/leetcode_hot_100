@@ -57,6 +57,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0056-merge-intervals](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0056-merge-intervals/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0189-rotate-array](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0189-rotate-array/) | undefined |
+| [0238-product-of-array-except-self](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0238-product-of-array-except-self/) | undefined |
 | [0239-sliding-window-maximum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0283-move-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0283-move-zeroes/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -122,6 +123,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0238-product-of-array-except-self/) | undefined |
 | [0560-subarray-sum-equals-k](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0560-subarray-sum-equals-k/) | undefined |
 ## Queue
 | Problem Name | Difficulty |
