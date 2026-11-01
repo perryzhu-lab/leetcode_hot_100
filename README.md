@@ -53,6 +53,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0015-3sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0053-maximum-subarray/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0283-move-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0283-move-zeroes/) | Easy |
@@ -102,6 +103,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | undefined |
+| [0053-maximum-subarray](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0053-maximum-subarray/) | undefined |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +135,8 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0239-sliding-window-maximum/) | undefined |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0053-maximum-subarray/) | undefined |
 <!---LeetCode Topics End-->
