@@ -53,6 +53,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0015-3sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0015-3sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0041-first-missing-positive/) | undefined |
 | [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0048-rotate-image/) | undefined |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0053-maximum-subarray/) | undefined |
 | [0054-spiral-matrix](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0054-spiral-matrix/) | undefined |
@@ -157,10 +158,12 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0048-rotate-image/) | undefined |
 | [0189-rotate-array](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0189-rotate-array/) | undefined |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0048-rotate-image/) | undefined |
 | [0054-spiral-matrix](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0054-spiral-matrix/) | undefined |
 | [0073-set-matrix-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0073-set-matrix-zeroes/) | undefined |
 ## Simulation
