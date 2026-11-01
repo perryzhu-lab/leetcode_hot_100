@@ -49,18 +49,18 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0001-two-sum/) | Easy |
-| [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | undefined |
+| [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0001-two-sum/) | Easy |
-| [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | undefined |
+| [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | undefined |
+| [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | undefined |
+| [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
