@@ -59,11 +59,13 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | undefined |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -97,4 +99,8 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | undefined |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 <!---LeetCode Topics End-->
