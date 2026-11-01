@@ -49,48 +49,48 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0001-two-sum/) | Easy |
-| [0011-container-with-most-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0011-container-with-most-water/) | undefined |
-| [0015-3sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0015-3sum/) | undefined |
-| [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | undefined |
+| [0011-container-with-most-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
-| [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | undefined |
-| [0283-move-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0283-move-zeroes/) | undefined |
-| [0560-subarray-sum-equals-k](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0560-subarray-sum-equals-k/) | undefined |
+| [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0283-move-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0283-move-zeroes/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0001-two-sum/) | Easy |
-| [0003-longest-substring-without-repeating-characters](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0003-longest-substring-without-repeating-characters](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
-| [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | undefined |
-| [0438-find-all-anagrams-in-a-string](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
-| [0560-subarray-sum-equals-k](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0560-subarray-sum-equals-k/) | undefined |
+| [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0003-longest-substring-without-repeating-characters](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
-| [0438-find-all-anagrams-in-a-string](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
+| [0438-find-all-anagrams-in-a-string](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0015-3sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0015-3sum/) | undefined |
+| [0015-3sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | undefined |
+| [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0011-container-with-most-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0011-container-with-most-water/) | undefined |
-| [0015-3sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0015-3sum/) | undefined |
-| [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | undefined |
-| [0283-move-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0283-move-zeroes/) | undefined |
+| [0011-container-with-most-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | Hard |
+| [0283-move-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0283-move-zeroes/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0011-container-with-most-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0011-container-with-most-water/) | undefined |
+| [0011-container-with-most-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0011-container-with-most-water/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
