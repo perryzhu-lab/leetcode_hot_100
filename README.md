@@ -62,11 +62,13 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0003-longest-substring-without-repeating-characters](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | undefined |
+| [0438-find-all-anagrams-in-a-string](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +105,5 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0438-find-all-anagrams-in-a-string](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
 <!---LeetCode Topics End-->
