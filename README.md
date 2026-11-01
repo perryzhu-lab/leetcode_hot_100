@@ -42,11 +42,3 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 4. Optimize the algorithm for better efficiency.
 5. Write clean, readable, and maintainable Python code.
 
-## Solutions
-
-All solutions are organized by problem and automatically synchronized through LeetHub.
-
-The following topic-based index is automatically maintained as solutions are added.
-
-<!---LeetCode Topics Start-->
-<!---LeetCode Topics End-->
