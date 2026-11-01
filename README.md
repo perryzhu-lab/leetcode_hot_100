@@ -63,6 +63,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0189-rotate-array](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0189-rotate-array/) | undefined |
 | [0238-product-of-array-except-self](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0238-product-of-array-except-self/) | undefined |
 | [0239-sliding-window-maximum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0239-sliding-window-maximum/) | undefined |
+| [0240-search-a-2d-matrix-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 | [0283-move-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0283-move-zeroes/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
@@ -151,6 +152,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0053-maximum-subarray/) | undefined |
+| [0240-search-a-2d-matrix-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 ## 快速排序
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,8 +168,13 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0048-rotate-image](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0048-rotate-image/) | undefined |
 | [0054-spiral-matrix](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0054-spiral-matrix/) | undefined |
 | [0073-set-matrix-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0073-set-matrix-zeroes/) | undefined |
+| [0240-search-a-2d-matrix-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0054-spiral-matrix/) | undefined |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 <!---LeetCode Topics End-->
