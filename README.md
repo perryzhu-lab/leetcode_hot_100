@@ -55,6 +55,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0283-move-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0283-move-zeroes/) | undefined |
+| [0560-subarray-sum-equals-k](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0560-subarray-sum-equals-k/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
+| [0560-subarray-sum-equals-k](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0560-subarray-sum-equals-k/) | undefined |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +108,8 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0560-subarray-sum-equals-k/) | undefined |
 <!---LeetCode Topics End-->
