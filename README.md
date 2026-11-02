@@ -104,6 +104,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0189-rotate-array](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0189-rotate-array/) | undefined |
+| [0234-palindrome-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0234-palindrome-linked-list/) | undefined |
 | [0283-move-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0283-move-zeroes/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | undefined |
+| [0234-palindrome-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0234-palindrome-linked-list/) | undefined |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,8 +186,10 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0206-reverse-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0206-reverse-linked-list/) | undefined |
+| [0234-palindrome-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0234-palindrome-linked-list/) | undefined |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0206-reverse-linked-list/) | undefined |
+| [0234-palindrome-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0234-palindrome-linked-list/) | undefined |
 <!---LeetCode Topics End-->
