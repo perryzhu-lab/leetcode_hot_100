@@ -193,6 +193,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0002-add-two-numbers](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0002-add-two-numbers/) | undefined |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0019-remove-nth-node-from-end-of-list/) | undefined |
 | [0021-merge-two-sorted-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0021-merge-two-sorted-lists/) | undefined |
+| [0024-swap-nodes-in-pairs](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0024-swap-nodes-in-pairs/) | undefined |
 | [0141-linked-list-cycle](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
@@ -203,6 +204,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0002-add-two-numbers/) | undefined |
 | [0021-merge-two-sorted-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0021-merge-two-sorted-lists/) | undefined |
+| [0024-swap-nodes-in-pairs](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0024-swap-nodes-in-pairs/) | undefined |
 | [0206-reverse-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0206-reverse-linked-list/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0234-palindrome-linked-list/) | undefined |
 ## Floyd 判圈算法
