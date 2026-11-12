@@ -76,6 +76,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0073-set-matrix-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0076-minimum-window-substring](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0076-minimum-window-substring/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0138-copy-list-with-random-pointer/) | undefined |
 | [0141-linked-list-cycle](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
@@ -195,6 +196,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0021-merge-two-sorted-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0024-swap-nodes-in-pairs](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0024-swap-nodes-in-pairs/) | undefined |
 | [0025-reverse-nodes-in-k-group](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
+| [0138-copy-list-with-random-pointer](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0138-copy-list-with-random-pointer/) | undefined |
 | [0141-linked-list-cycle](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
