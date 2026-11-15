@@ -95,6 +95,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0015-3sum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0056-merge-intervals/) | undefined |
+| [0148-sort-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0148-sort-list/) | undefined |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0142-linked-list-cycle-ii/) | undefined |
+| [0148-sort-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0148-sort-list/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0189-rotate-array](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0189-rotate-array/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0234-palindrome-linked-list/) | undefined |
@@ -162,6 +164,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0053-maximum-subarray/) | undefined |
+| [0148-sort-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0148-sort-list/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 ## 快速排序
 | Problem Name | Difficulty |
@@ -199,6 +202,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0138-copy-list-with-random-pointer](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0138-copy-list-with-random-pointer/) | undefined |
 | [0141-linked-list-cycle](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0142-linked-list-cycle-ii/) | undefined |
+| [0148-sort-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0148-sort-list/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0206-reverse-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0206-reverse-linked-list/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0234-palindrome-linked-list/) | undefined |
@@ -216,4 +220,8 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0142-linked-list-cycle-ii/) | undefined |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0148-sort-list/) | undefined |
 <!---LeetCode Topics End-->
