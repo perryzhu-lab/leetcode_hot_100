@@ -155,6 +155,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0023-merge-k-sorted-lists/) | undefined |
 | [0239-sliding-window-maximum](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0239-sliding-window-maximum/) | undefined |
 ## 区间最值查询
 | Problem Name | Difficulty |
@@ -163,6 +164,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0023-merge-k-sorted-lists/) | undefined |
 | [0053-maximum-subarray](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0053-maximum-subarray/) | undefined |
 | [0148-sort-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0148-sort-list/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
@@ -197,6 +199,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0002-add-two-numbers](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0002-add-two-numbers/) | undefined |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0019-remove-nth-node-from-end-of-list/) | undefined |
 | [0021-merge-two-sorted-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0021-merge-two-sorted-lists/) | undefined |
+| [0023-merge-k-sorted-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0023-merge-k-sorted-lists/) | undefined |
 | [0024-swap-nodes-in-pairs](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0024-swap-nodes-in-pairs/) | undefined |
 | [0025-reverse-nodes-in-k-group](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
 | [0138-copy-list-with-random-pointer](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0138-copy-list-with-random-pointer/) | undefined |
@@ -223,5 +226,10 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0023-merge-k-sorted-lists/) | undefined |
 | [0148-sort-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0148-sort-list/) | undefined |
+## 锦标赛排序
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0023-merge-k-sorted-lists/) | undefined |
 <!---LeetCode Topics End-->
