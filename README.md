@@ -79,6 +79,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0138-copy-list-with-random-pointer](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0138-copy-list-with-random-pointer/) | undefined |
 | [0141-linked-list-cycle](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0142-linked-list-cycle-ii/) | undefined |
+| [0146-lru-cache](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0146-lru-cache/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -205,6 +206,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0138-copy-list-with-random-pointer](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0138-copy-list-with-random-pointer/) | undefined |
 | [0141-linked-list-cycle](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0142-linked-list-cycle-ii/) | undefined |
+| [0146-lru-cache](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0146-lru-cache/) | undefined |
 | [0148-sort-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0148-sort-list/) | undefined |
 | [0160-intersection-of-two-linked-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0160-intersection-of-two-linked-lists/) | undefined |
 | [0206-reverse-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0206-reverse-linked-list/) | undefined |
@@ -232,4 +234,12 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0023-merge-k-sorted-lists/) | undefined |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0146-lru-cache/) | undefined |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0146-lru-cache/) | undefined |
 <!---LeetCode Topics End-->
