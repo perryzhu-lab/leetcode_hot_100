@@ -123,6 +123,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | undefined |
+| [0094-binary-tree-inorder-traversal](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0234-palindrome-linked-list/) | undefined |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -242,4 +243,16 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0146-lru-cache/) | undefined |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 <!---LeetCode Topics End-->
