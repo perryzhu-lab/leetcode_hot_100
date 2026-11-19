@@ -250,6 +250,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0101-symmetric-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0101-symmetric-tree/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
 | [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
+| [0543-diameter-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0543-diameter-of-binary-tree/) | undefined |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +258,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0101-symmetric-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0101-symmetric-tree/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
 | [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
+| [0543-diameter-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0543-diameter-of-binary-tree/) | undefined |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,10 +266,15 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0101-symmetric-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0101-symmetric-tree/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
 | [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
+| [0543-diameter-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0543-diameter-of-binary-tree/) | undefined |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0101-symmetric-tree/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
 | [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
+## 树形 DP
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0543-diameter-of-binary-tree/) | undefined |
 <!---LeetCode Topics End-->
