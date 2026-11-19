@@ -249,21 +249,25 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0094-binary-tree-inorder-traversal](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0101-symmetric-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0101-symmetric-tree/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0101-symmetric-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0101-symmetric-tree/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
 | [0101-symmetric-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0101-symmetric-tree/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0101-symmetric-tree/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
 <!---LeetCode Topics End-->
