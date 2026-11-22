@@ -59,6 +59,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0054-spiral-matrix](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0054-spiral-matrix/) | undefined |
 | [0056-merge-intervals](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0056-merge-intervals/) | undefined |
 | [0073-set-matrix-zeroes](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0073-set-matrix-zeroes/) | undefined |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0189-rotate-array](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0189-rotate-array/) | undefined |
 | [0238-product-of-array-except-self](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0238-product-of-array-except-self/) | undefined |
@@ -168,6 +169,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0023-merge-k-sorted-lists/) | undefined |
 | [0053-maximum-subarray](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0053-maximum-subarray/) | undefined |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 | [0148-sort-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0148-sort-list/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 ## 快速排序
@@ -250,6 +252,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0101-symmetric-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0101-symmetric-tree/) | undefined |
 | [0102-binary-tree-level-order-traversal](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 | [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
 | [0543-diameter-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0543-diameter-of-binary-tree/) | undefined |
 ## Depth-First Search
@@ -267,6 +270,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0101-symmetric-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0101-symmetric-tree/) | undefined |
 | [0102-binary-tree-level-order-traversal](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 | [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
 | [0543-diameter-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0543-diameter-of-binary-tree/) | undefined |
 ## Breadth-First Search
@@ -280,4 +284,8 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0543-diameter-of-binary-tree/) | undefined |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 <!---LeetCode Topics End-->
