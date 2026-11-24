@@ -255,6 +255,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 | [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 | [0543-diameter-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0543-diameter-of-binary-tree/) | undefined |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -264,6 +265,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0101-symmetric-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0101-symmetric-tree/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
 | [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 | [0543-diameter-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0543-diameter-of-binary-tree/) | undefined |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -275,6 +277,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
 | [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 | [0543-diameter-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0543-diameter-of-binary-tree/) | undefined |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -292,4 +295,5 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0098-validate-binary-search-tree/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 <!---LeetCode Topics End-->
