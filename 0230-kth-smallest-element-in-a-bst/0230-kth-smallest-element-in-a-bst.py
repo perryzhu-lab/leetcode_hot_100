@@ -11,14 +11,24 @@ class TreeNode:
 
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        nums = []
+        # nums = []
+        cnt = 0
+        ans = 0
 
         def dfs(node: TreeNode):
+            nonlocal cnt, ans
             if node is None:
                 return
             dfs(node.left)
-            nums.append(node.val)
+            if cnt == k:
+                return
+
+            cnt += 1
+            if cnt == k:
+                ans = node.val
+                return
+
             dfs(node.right)
 
         dfs(root)
-        return nums[k - 1]
+        return ans
