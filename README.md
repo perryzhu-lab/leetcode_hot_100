@@ -254,6 +254,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0102-binary-tree-level-order-traversal](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
+| [0199-binary-tree-right-side-view](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 | [0543-diameter-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0543-diameter-of-binary-tree/) | undefined |
@@ -264,6 +265,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0098-validate-binary-search-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0098-validate-binary-search-tree/) | undefined |
 | [0101-symmetric-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0101-symmetric-tree/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0199-binary-tree-right-side-view](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 | [0543-diameter-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0543-diameter-of-binary-tree/) | undefined |
@@ -276,6 +278,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0102-binary-tree-level-order-traversal](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
+| [0199-binary-tree-right-side-view](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
 | [0543-diameter-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0543-diameter-of-binary-tree/) | undefined |
@@ -285,6 +288,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0101-symmetric-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0101-symmetric-tree/) | undefined |
 | [0102-binary-tree-level-order-traversal](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0199-binary-tree-right-side-view](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
 ## 树形 DP
 | Problem Name | Difficulty |
