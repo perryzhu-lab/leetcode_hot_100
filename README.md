@@ -125,6 +125,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0042-trapping-rain-water/) | undefined |
 | [0094-binary-tree-inorder-traversal](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0094-binary-tree-inorder-traversal/) | undefined |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0114-flatten-binary-tree-to-linked-list/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0234-palindrome-linked-list/) | undefined |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -206,6 +207,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0023-merge-k-sorted-lists](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0023-merge-k-sorted-lists/) | undefined |
 | [0024-swap-nodes-in-pairs](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0024-swap-nodes-in-pairs/) | undefined |
 | [0025-reverse-nodes-in-k-group](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0025-reverse-nodes-in-k-group/) | undefined |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0114-flatten-binary-tree-to-linked-list/) | undefined |
 | [0138-copy-list-with-random-pointer](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0138-copy-list-with-random-pointer/) | undefined |
 | [0141-linked-list-cycle](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0142-linked-list-cycle-ii/) | undefined |
@@ -254,6 +256,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0102-binary-tree-level-order-traversal](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0114-flatten-binary-tree-to-linked-list/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
@@ -265,6 +268,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0098-validate-binary-search-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0098-validate-binary-search-tree/) | undefined |
 | [0101-symmetric-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0101-symmetric-tree/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0114-flatten-binary-tree-to-linked-list/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
@@ -278,6 +282,7 @@ This repository focuses on algorithmic thinking, code efficiency, and problem-so
 | [0102-binary-tree-level-order-traversal](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0104-maximum-depth-of-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0104-maximum-depth-of-binary-tree/) | undefined |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | undefined |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0114-flatten-binary-tree-to-linked-list/) | undefined |
 | [0199-binary-tree-right-side-view](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0199-binary-tree-right-side-view/) | undefined |
 | [0226-invert-binary-tree](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0226-invert-binary-tree/) | undefined |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/perryzhu-lab/leetcode_hot_100/tree/main/0230-kth-smallest-element-in-a-bst/) | undefined |
