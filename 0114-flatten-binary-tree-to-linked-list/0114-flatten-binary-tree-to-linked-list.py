@@ -8,22 +8,33 @@ class TreeNode:
 
 class Solution:
     def flatten(self, root: TreeNode | None) -> None:
-        nodes = []
+        # nodes = []
 
-        def dfs(node: TreeNode):
-            if node is None:
-                return
-            nodes.append(node)
-            dfs(node.left)
-            dfs(node.right)
+        # def dfs(node: TreeNode):
+        #     if node is None:
+        #         return
+        #     nodes.append(node)
+        #     dfs(node.left)
+        #     dfs(node.right)
 
-        dfs(root)
+        # dfs(root)
 
-        if len(nodes) == 0 or len(nodes) == 1:
-            return
-        for i in range(1, len(nodes)):
-            nodes[i - 1].left = None
-            nodes[i - 1].right = nodes[i]
+        # if len(nodes) == 0 or len(nodes) == 1:
+        #     return
+        # for i in range(1, len(nodes)):
+        #     nodes[i - 1].left = None
+        #     nodes[i - 1].right = nodes[i]
 
-        nodes[i].left = None
-        nodes[i].right = None
+        # nodes[-1].left = None
+        # nodes[-1].right = None
+
+        curr = root
+        while curr is not None:
+            if curr.left is not None:
+                node = curr.left
+                while node.right is not None:
+                    node = node.right
+                node.right = curr.right
+                curr.right = curr.left
+                curr.left = None
+            curr = curr.right
